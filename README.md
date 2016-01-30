@@ -1,5 +1,8 @@
 # jest-webpack-alias
 
+[![Build Status](https://travis-ci.org/nhz-io/jest-webpack-alias.svg?branch=travis-coveralls)](https://travis-ci.org/nhz-io/jest-webpack-alias)
+[![Coverage Status](https://coveralls.io/repos/github/nhz-io/jest-webpack-alias/badge.svg?branch=travis-coveralls)](https://coveralls.io/github/nhz-io/jest-webpack-alias?branch=travis-coveralls)
+
 Preprocessor for Jest that is able to resolve `require()` statements using webpack aliases.
 
 See also [transform-jest-deps](https://github.com/Ticketmaster/transform-jest-deps).
