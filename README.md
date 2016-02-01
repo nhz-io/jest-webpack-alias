@@ -3,6 +3,9 @@
 [![Build Status](https://travis-ci.org/nhz-io/jest-webpack-alias.svg?branch=travis-coveralls)](https://travis-ci.org/nhz-io/jest-webpack-alias)
 [![Coverage Status](https://coveralls.io/repos/github/nhz-io/jest-webpack-alias/badge.svg?branch=travis-coveralls)](https://coveralls.io/github/nhz-io/jest-webpack-alias?branch=travis-coveralls)
 [![NPM](https://img.shields.io/npm/v/jest-webpack-alias.svg?style=flat)](https://www.npmjs.com/package/jest-webpack-alias)
+[![bitHound Overall Score](https://www.bithound.io/github/nhz-io/jest-webpack-alias/badges/score.svg)](https://www.bithound.io/github/nhz-io/jest-webpack-alias)
+[![bitHound Dependencies](https://www.bithound.io/github/nhz-io/jest-webpack-alias/badges/dependencies.svg)](https://www.bithound.io/github/nhz-io/jest-webpack-alias/master/dependencies/npm)
+[![bitHound Dev Dependencies](https://www.bithound.io/github/nhz-io/jest-webpack-alias/badges/devDependencies.svg)](https://www.bithound.io/github/nhz-io/jest-webpack-alias/master/dependencies/npm)
 [![bitHound Code](https://www.bithound.io/github/nhz-io/jest-webpack-alias/badges/code.svg)](https://www.bithound.io/github/nhz-io/jest-webpack-alias)
 
 Preprocessor for Jest that is able to resolve `require()` statements using webpack aliases.
