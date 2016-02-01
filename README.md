@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/nhz-io/jest-webpack-alias.svg?branch=travis-coveralls)](https://travis-ci.org/nhz-io/jest-webpack-alias)
 [![Coverage Status](https://coveralls.io/repos/github/nhz-io/jest-webpack-alias/badge.svg?branch=travis-coveralls)](https://coveralls.io/github/nhz-io/jest-webpack-alias?branch=travis-coveralls)
 [![NPM](https://img.shields.io/npm/v/jest-webpack-alias.svg?style=flat)](https://www.npmjs.com/package/jest-webpack-alias)
-[![bitHound Code](https://www.bithound.io/github/nhz-io/nhz-fsm/badges/code.svg)](https://www.bithound.io/github/nhz-io/nhz-fsm)
+[![bitHound Code](https://www.bithound.io/github/nhz-io/jest-webpack-alias/badges/code.svg)](https://www.bithound.io/github/nhz-io/jest-webpack-alias)
 
 Preprocessor for Jest that is able to resolve `require()` statements using webpack aliases.
 
